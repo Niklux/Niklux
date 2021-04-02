@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Niklux
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me:
-
-      - Instagram: niklas_3.02
+     - Instagram: niklas_3.02
